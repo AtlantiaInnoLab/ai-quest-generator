@@ -1,0 +1,13 @@
+[theme]
+# Colores primarios Atlantia
+primaryColor = "#6546C3"        # Violet - botones principales
+backgroundColor = "#FFFFFF"     # Blanco - fondo principal  
+secondaryBackgroundColor = "#F8F9FF"  # Blanco ligeramente tintado
+textColor = "#2E2E2E"          # Gris oscuro para texto
+
+[server]
+maxUploadSize = 200
+enableCORS = false
+
+[browser]
+gatherUsageStats = false
